@@ -1,6 +1,6 @@
 Name: Carlos Astudillo
 
-Repo:4883-Prog-tech
+Repo:3013-Algorithms
 
 Email: castudillo00@gmail.com 
 
