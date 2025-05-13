@@ -2,7 +2,7 @@
 ### Carlos Astudillo
 ### Description:
 
-BST delete function
+Presentation over Monte Carlo & Las Vegas algorithms
  
 ### Files:
 
